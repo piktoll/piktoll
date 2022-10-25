@@ -21,7 +21,8 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg" height="40px" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" height="40px" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/30/MacOS_logo.svg" height="40px" />
+<img src="https://logos-download.com/wp-content/uploads/2020/06/Apple_Mac_OS_Logo-700x670.png" height="40px" />
+
 </p>
 
 <!---
