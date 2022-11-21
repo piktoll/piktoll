@@ -1,6 +1,6 @@
 <h3>About Me</h3>
 <ul>
-<li>👋 Hi, I’m @piktoll, a Korean-Speaking Frontend Developer and Software Developer.</li>
+<li>👋 Hi, I’m @piktoll, a Korean-Speaking Frontend Web Developer and Software Developer.</li>
 <li>👀 I’m interested in becoming a Full Stack Developer.</li>
 <li>🌱 I’m currently learning advanced PHP & JavaScript.</li>
 <li>🤝 I’m looking to collaborate on web-based applications and remakes of video games made between 1990 and 2005.</li>
