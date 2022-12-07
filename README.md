@@ -9,17 +9,26 @@
 
 <h3>Skills</h3>
 <p>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" height="40px" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" height="40px" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="40px" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="40px" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" height="40px" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg" height="40px" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" height="40px" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Inkscape_Logo.svg" height="40px" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg" height="40px" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" height="40px" />
-    <img src="https://logos-download.com/wp-content/uploads/2020/06/Apple_Mac_OS_Logo-700x670.png" height="40px" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" height="40px" alt="HTML5" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" height="40px" alt="CSS3" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="40px" alt="JavaScript" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="40px" alt="React.js" />
+<!-- To be added in the future
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" height="40px" alt="Angular 2+" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" height="40px" alt="Vue.js" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" height="40px" alt="Flutter" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" height="40px" alt="Sass" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" height="40px" alt="Bootstrap" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" height="40px" alt="Tailwind" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" height="40px" alt="TypeScript" />
+-->
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" height="40px" alt="PHP" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg" height="40px" alt="Korean" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" height="40px" alt="Blender" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Inkscape_Logo.svg" height="40px" alt="Inkscape" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg" height="40px" alt="Windows" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" height="40px" alt="Linux" />
+    <img src="https://logos-download.com/wp-content/uploads/2020/06/Apple_Mac_OS_Logo-700x670.png" height="40px" alt="macOS" />
 </p>
 
 <h3>Projects</h3>
