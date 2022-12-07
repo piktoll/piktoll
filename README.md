@@ -12,6 +12,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" height="40px" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" height="40px" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="40px" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="40px" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" height="40px" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg" height="40px" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" height="40px" />
