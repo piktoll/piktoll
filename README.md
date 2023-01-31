@@ -33,6 +33,8 @@
 
 <h3>Projects</h3>
 <ul>
+    <li>Violing (Violin Simulator) <a href="https://play.google.com/store/apps/details?id=com.SenrimaTeam.Violing" target="_blank">(Google Play)</a></li>
+    <li>Oil-Gasoline Mixture Ratio Calculator <a href="https://play.google.com/store/apps/details?id=com.SenrimaTeam.Keverve" target="_blank">(Google Play)</a></li>
     <li>Nameko (Korean Name Generator) <a href="https://github.com/piktoll/nameko" target="_blank">(View Code)</a></li>
     <li>Combinow (Combinatorics Calculator) <a href="https://github.com/piktoll/combinow" target="_blank">(View Code)</a></li>
     <li>Counting (Number to Text Converter) <a href="https://github.com/piktoll/counting" target="_blank">(View Code)</a></li>
