@@ -1,3 +1,4 @@
+<!--
 <h3>About Me</h3>
 <ul>
     <li>👋 Hi, I’m @piktoll, a Korean Speaking Frontend Web Developer and Software Developer.</li>
@@ -6,7 +7,7 @@
     <li>🤝 I’m looking to collaborate on web-based applications and remakes of video games made between 1990 and 2005.</li>
     <li>📫 Feel free to contact me if you are interested.</li>
 </ul>
-
+-->
 <h3>Skills</h3>
 <p>
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" height="40px" alt="HTML5" />
@@ -36,6 +37,7 @@
 <ul>
     <li>Violing (Violin Simulator) <a href="https://play.google.com/store/apps/details?id=com.SenrimaTeam.Violing" target="_blank">(Google Play)</a></li>
     <li>Oil-Gasoline Mixture Ratio Calculator <a href="https://play.google.com/store/apps/details?id=com.SenrimaTeam.Keverve" target="_blank">(Google Play)</a></li>
+    <li>Cyphero (Guess the number) <a href="https://github.com/piktoll/cyphero" target="_blank">(View Code)</a></li>
     <li>Nameko (Korean Name Generator) <a href="https://github.com/piktoll/nameko" target="_blank">(View Code)</a></li>
     <li>Combinow (Combinatorics Calculator) <a href="https://github.com/piktoll/combinow" target="_blank">(View Code)</a></li>
     <li>Counting (Number to Text Converter) <a href="https://github.com/piktoll/counting" target="_blank">(View Code)</a></li>
