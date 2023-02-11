@@ -1,3 +1,5 @@
+<h2>Viktor Szrenka</h2>
+<h4>Korean Speaking Web & Software Developer</h4>
 <!--
 <h3>About Me</h3>
 <ul>
