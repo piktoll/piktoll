@@ -12,7 +12,9 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" height="40px" alt="HTML5" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" height="40px" alt="CSS3" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="40px" alt="JavaScript" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" height="40px" alt="TypeScript" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="40px" alt="React.js" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" height="40px" alt="C#" />
 <!-- To be added in the future
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" height="40px" alt="Angular 2+" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" height="40px" alt="Vue.js" />
@@ -20,7 +22,6 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" height="40px" alt="Sass" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" height="40px" alt="Bootstrap" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" height="40px" alt="Tailwind" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" height="40px" alt="TypeScript" />
 -->
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" height="40px" alt="PHP" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg" height="40px" alt="Korean" />
