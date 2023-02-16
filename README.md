@@ -1,6 +1,4 @@
-<h1>Professional Portfolio</h1>
-<h3>Viktor Szrenka</h3>
-<h4>Korean Speaking Web & Software Developer</h4>
+<h2>Professional Portfolio</h2>
 <h3>Skills</h3>
 <p>
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" height="32px" alt="HTML5" />
