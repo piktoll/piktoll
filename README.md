@@ -31,5 +31,5 @@
     <li>Cyphero (Guess the number) (<a href="https://karhut.hu/projects/cyphero" target="_blank">Try</a>) (<a href="https://github.com/piktoll/cyphero" target="_blank">View Code</a>)</li>
     <li>Nameko (Korean Name Generator) (<a href="https://karhut.hu/projects/nameko" target="_blank">Try</a>) (<a href="https://github.com/piktoll/nameko" target="_blank">View Code</a>)</li>
     <li>Combinow (Combinatorics Calculator) (<a href="https://karhut.hu/projects/combinow" target="_blank">Try</a>) (<a href="https://github.com/piktoll/combinow" target="_blank">View Code</a>)</li>
-    <li>Counting (Number to Text Converter) (<a href="https://karhut.hu/projects/counting" target="_blank">Try</a>) (<a href="https://github.com/piktoll/counting" target="_blank">View Code</a>)</li>
+    <li>Counting (Korean Number to Text Converter) (<a href="https://karhut.hu/projects/counting" target="_blank">Try</a>) (<a href="https://github.com/piktoll/counting" target="_blank">View Code</a>)</li>
 </ul>
