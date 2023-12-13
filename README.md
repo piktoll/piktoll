@@ -7,21 +7,15 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" height="32px" alt="TypeScript" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="32px" alt="React.js" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" height="32px" alt="C#" />
-<!-- To be added in the future
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" height="32px" alt="Angular 2+" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" height="32px" alt="Vue.js" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" height="32px" alt="Flutter" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" height="32px" alt="Sass" />
+    <!--
     <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" height="32px" alt="Bootstrap" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" height="32px" alt="Tailwind" />
--->
+    -->
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" height="32px" alt="PHP" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg" height="32px" alt="Korean" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" height="32px" alt="Blender" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Inkscape_Logo.svg" height="32px" alt="Inkscape" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg" height="32px" alt="Windows" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" height="32px" alt="Linux" />
-    <img src="https://logos-download.com/wp-content/uploads/2020/06/Apple_Mac_OS_Logo-700x670.png" height="32px" alt="macOS" />
 </p>
 
 <h3>Projects</h3>
